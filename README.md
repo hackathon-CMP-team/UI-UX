@@ -12,3 +12,6 @@
 ![homePage](https://user-images.githubusercontent.com/67972643/235795788-28a9dbe2-3a84-41ae-add6-764016565a5c.png)
 ![login](https://user-images.githubusercontent.com/67972643/235795796-c4c85d97-4cdc-481c-acf8-b5d59c47a706.png)
 ![Logo – 2](https://user-images.githubusercontent.com/67972643/235795804-924c8edd-322f-4cb8-993e-045be790259a.png)
+![person](https://user-images.githubusercontent.com/67972643/235795982-76adeabf-7232-4051-a435-f38bde8ee4e5.png)
+![child](https://user-images.githubusercontent.com/67972643/235796010-7a4fe806-7442-408d-9103-94070803f598.png)
+![wallets](https://user-images.githubusercontent.com/67972643/235796034-fe0acb4d-54d2-4c52-908e-1edcb79b0094.png)
