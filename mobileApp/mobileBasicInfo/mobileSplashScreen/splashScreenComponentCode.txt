@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366.721" height="1500.264" viewBox="0 0 1366.721 1500.264">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e26473"/>
+      <stop offset="0.229" stop-color="#f36528"/>
+      <stop offset="0.4" stop-color="#e7645b"/>
+      <stop offset="0.468" stop-color="#eb644a"/>
+      <stop offset="0.562" stop-color="#e26473"/>
+      <stop offset="0.833" stop-color="#e7645c"/>
+      <stop offset="0.853" stop-color="#e46469"/>
+      <stop offset="1" stop-color="#e0647b"/>
+    </linearGradient>
+    <filter id="Path_39" x="148.842" y="0" width="1024.056" height="1450.005" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#e0647b" flood-opacity="0.569"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_40" x="240.715" y="4.719" width="932.746" height="1495.545" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-color="#e0647b" flood-opacity="0.569"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e26473"/>
+      <stop offset="0.229" stop-color="#f36528"/>
+      <stop offset="0.377" stop-color="#e26473"/>
+      <stop offset="0.4" stop-color="#e7645b"/>
+      <stop offset="0.468" stop-color="#eb644a"/>
+      <stop offset="0.833" stop-color="#e7645c"/>
+      <stop offset="0.853" stop-color="#e46469"/>
+      <stop offset="1" stop-color="#e0647b"/>
+    </linearGradient>
+    <filter id="Path_41" x="0" y="2.233" width="1366.721" height="1484.815" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-3"/>
+      <feFlood flood-color="#fcdd89" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(45 42)">
+    <g transform="matrix(1, 0, 0, 1, -45, -42)" filter="url(#Path_39)">
+      <path id="Path_39-2" data-name="Path 39" d="M265.107,84.388,560.118.163c91.951-26.252,145.21,122.6,118.958,332.48l-49.2,393.346c-26.252,209.875-119.341,448.583-211.292,474.835l-297.743,36.935C28.89,1264.011-24.37,1115.155,1.882,905.28l49.2-393.346C77.334,302.058,173.156,110.64,265.107,84.388Z" transform="matrix(0.98, -0.21, 0.21, 0.98, 199.14, 187.36)" opacity="0.86" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -45, -42)" filter="url(#Path_40)">
+      <path id="Path_40-2" data-name="Path 40" d="M135.86,1.819,428.315,61.166c91.154,18.5,180.044,211.979,198.542,432.153l34.669,412.648c18.5,220.174-27.118,437.764-118.272,419.266L237.516,1211.786c-91.154-18.5-180.044-211.979-198.542-432.153L4.3,366.985C-14.193,146.811,44.706-16.679,135.86,1.819Z" transform="translate(469.41 46.21) rotate(8)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -45, -42)" filter="url(#Path_41)">
+      <path id="Path_41-2" data-name="Path 41" d="M124.957,12.773,462.072,164.55C567.145,211.857,690.055,384.931,736.6,551.122l87.231,311.473c46.543,166.19,20.4,306.652-84.677,259.345L380.734,926.074C275.661,878.767,152.751,705.693,106.208,539.5L18.978,228.03C-27.565,61.84,19.883-34.534,124.957,12.773Z" transform="translate(575.11 43.07) rotate(28)" opacity="0.63" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+main color #E26473
+text style robto
+adult icon size 39
+child icon size 24
+text field color #ACACAC
+text field size 16
+button color #FEFEFE /// size 20
+footer login size 16 /// color #E26473 
+already have.....  14 /// color #AFAFAF
+spacing between every textField 8 px
+
