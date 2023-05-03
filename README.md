@@ -1,17 +1,2 @@
 # UI-UX
-![Logo](https://user-images.githubusercontent.com/67972643/235795754-d1911b69-f04a-46d8-8308-3a83caf7a4fe.png)
-![newPassword – 1](https://user-images.githubusercontent.com/67972643/235795762-681b9bd1-4004-4f54-a367-d79912762b60.png)
-![newPassword](https://user-images.githubusercontent.com/67972643/235795766-4abb0408-f4a3-439d-80e4-25b6dc5d2caf.png)
-![passwordCheck](https://user-images.githubusercontent.com/67972643/235795768-58256076-def8-44e3-ab87-2caa3116e781.png)
-![verificationCode – 1](https://user-images.githubusercontent.com/67972643/235795773-2a043ecb-605b-4680-b871-74c5eeb33c50.png)
-![verificationCode](https://user-images.githubusercontent.com/67972643/235795775-72a82b26-c181-4f8a-a9ce-18aa9c833dbb.png)
-![Adult – 1](https://user-images.githubusercontent.com/67972643/235795779-5396b091-b4df-4439-a18c-9019dca06a2b.png)
-![Adult](https://user-images.githubusercontent.com/67972643/235795782-199ec8e2-fc98-4b81-bc00-16452a17ac7d.png)
-![Child – 1](https://user-images.githubusercontent.com/67972643/235795784-1ec6f181-4ecb-4640-9d92-4746a0ddb34c.png)
-![Child](https://user-images.githubusercontent.com/67972643/235795787-ea0244d6-c27e-44d8-ba85-de6bd4f46e2c.png)
-![homePage](https://user-images.githubusercontent.com/67972643/235795788-28a9dbe2-3a84-41ae-add6-764016565a5c.png)
-![login](https://user-images.githubusercontent.com/67972643/235795796-c4c85d97-4cdc-481c-acf8-b5d59c47a706.png)
-![Logo – 2](https://user-images.githubusercontent.com/67972643/235795804-924c8edd-322f-4cb8-993e-045be790259a.png)
-![person](https://user-images.githubusercontent.com/67972643/235795982-76adeabf-7232-4051-a435-f38bde8ee4e5.png)
-![child](https://user-images.githubusercontent.com/67972643/235796010-7a4fe806-7442-408d-9103-94070803f598.png)
-![wallets](https://user-images.githubusercontent.com/67972643/235796034-fe0acb4d-54d2-4c52-908e-1edcb79b0094.png)
+
